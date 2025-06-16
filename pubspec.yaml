@@ -1,14 +1,14 @@
 name: date_bin
 description: A Dart library that provides a dateBin function for binning timestamps into a specified interval 
   aligned with a specified origin, similar to the date_bin function in Postgres.
-version: 1.0.2
+version: 2.0.0
 repository: https://github.com/DanMossa/date_bin
 
 environment:
   sdk: '>=3.8.1 <4.0.0'
 
 dependencies:
-  intl: '>=0.20.0 <0.20.2'
+  intl: '>=0.20.0 <=0.20.2'
 
 dev_dependencies:
   lints: ^6.0.0
