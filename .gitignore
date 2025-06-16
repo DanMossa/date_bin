@@ -7,3 +7,7 @@
 pubspec.lock
 .idea/
 /date_bin.iml
+
+# FVM Version Cache
+.fvmrc
+.fvm

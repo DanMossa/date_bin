@@ -5,11 +5,11 @@ version: 1.0.2
 repository: https://github.com/DanMossa/date_bin
 
 environment:
-  sdk: '>=3.3.4 <4.0.0'
+  sdk: '>=3.8.1 <4.0.0'
 
 dependencies:
-  intl: '>=0.19.0 <0.20.0'
+  intl: '>=0.20.0 <0.20.2'
 
 dev_dependencies:
-  lints: ^2.0.0
+  lints: ^6.0.0
   test: ^1.21.0

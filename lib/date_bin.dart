@@ -1,4 +1,4 @@
-library date_bin;
+library;
 
 DateTime dateBin(Duration stride, DateTime source, DateTime origin) {
   // Calculate the number of whole strides between the origin and source timestamps.
